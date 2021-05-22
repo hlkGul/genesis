@@ -8,6 +8,7 @@ import javax.persistence.Table;
 
 import lombok.Data;
 
+//this is lombok annot.
 @Data
 @Entity
 @Table(name="products")
